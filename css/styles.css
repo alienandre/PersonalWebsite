@@ -1,0 +1,128 @@
+body{
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+}
+
+h1{
+    color: #66BFBF;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+
+hr{
+    width: 50%;
+    color: #11999E;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+.row-data{
+    text-align: left;
+}
+
+.contact-me{
+    margin-bottom: 40px;
+}
+
+.skill-row{
+    margin: 150px auto 150px auto;
+    line-height: 2;
+    width: 50%;
+    text-align: left;
+}
+.skills-image{
+    height:20%;
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.top-container{
+    background-color: #bce2ec;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+  background-color: white;
+}
+
+.bottom-container{
+    margin-top: 100px;
+    padding-top: 30px;
+    background-color: #bce2ec;
+    padding-bottom: 50px;
+}
+.aboutme{
+    margin: auto;
+    width: 50%;
+}
+
+#cloud1{
+    position: absolute;
+    right:300px;
+    top: 50px;
+
+}
+
+#cloud2{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.copyright{
+    color: #08423a;
+    font-size: .75rem;
+    padding:20px 0px 20px;
+}
+
+
+
+
